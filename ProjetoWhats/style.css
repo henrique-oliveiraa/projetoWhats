@@ -1,0 +1,161 @@
+.Conversas {
+    margin-left: 5px;
+    margin-top: 40px;
+}
+
+.d-flex {
+    width: 1000px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: white;
+}
+
+.linha {
+    width: 100%;
+    border-bottom: 1px;
+}
+
+.perfil {
+    border-radius: 100%;
+    position: relative;
+}
+
+.sie {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+     text-decoration: none;
+    
+}
+
+.heique {
+    display: flow-root;
+    margin-left: 80px;
+    margin-top: -50px;
+}
+
+.vou {
+    margin-top: -20px;
+}
+
+.horario {
+    margin-left: 270px;
+    position:absolute;
+}
+
+
+.cadeado {
+    display: flex;
+    justify-content: center;
+}
+
+.criptografia {
+    display: flex;
+    justify-content: center;
+}
+
+.horarioo{
+    margin-left: 272px;
+    position: absolute;
+}
+
+.senacc{
+    border-radius: 100px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+.tds{
+    padding-left: 75px;
+    margin-top: -30px;
+}
+
+.camera{
+    padding-left: 290px;
+    margin-top: -21px;
+    position: fixed;
+
+}
+
+.telefone{
+    padding-left:350px;
+    margin-top: -10px;
+    
+}
+
+.linhaaa{
+    margin-top: -20px;
+
+}
+
+.footer{
+    margin-top: 820px;
+     
+}
+
+.linho{
+    margin-top: -56px;
+
+}
+
+.pesquisa{
+    border-radius: 100px;
+}
+
+.quadrado {
+    margin-left: 10px;
+    width:250px;
+    height: -300px;
+    background: #d1caca;
+    border-radius: 100px;
+  }
+
+
+
+  .mensagemum {
+    margin-left: 170px;
+    margin-top: 10px;
+    width:250px;
+    height: -300px;
+    background: #d1caca;
+    border-radius: 10px;
+  }
+
+
+  .mensagemheique{
+    margin-left: 15px;
+  }
+
+  .mensagemMaria{
+    margin-left: 15px;
+  }
+
+  .mensagemdois{
+    margin-left: 10px;
+    margin-top: 10px;
+    width:250px;
+    height: -300px;
+    background: #d1caca;
+    border-radius: 100px;
+
+  }
+
+  .mensagemtres{
+    margin-left: 10px;
+    margin-top: 5px;
+    width:250px;
+    height: -300px;
+    background: #d1caca;
+    border-radius: 10px;
+  }
+
+  .mensagemquatro{
+    margin-left: 170px;
+    margin-top: 10px;
+    width:250px;
+    height: -300px;
+    background: #d1caca;
+    border-radius: 10px;
+
+}
+
